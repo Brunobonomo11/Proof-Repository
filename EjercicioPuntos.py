@@ -116,3 +116,4 @@ for num in range(1, 101):
     print("Ha completado el nivel de Buzz pero le faltan niveles por completar")
   else:
     print(num)
+ 
